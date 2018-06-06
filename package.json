@@ -1,0 +1,19 @@
+{
+  "name": "seleniumjs",
+  "version": "1.0.0",
+  "description": "Course for using seleniumjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "selenium"
+  ],
+  "author": "Rafael Noguera",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
